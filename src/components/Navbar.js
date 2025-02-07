@@ -2,10 +2,8 @@ import React, {Component} from "react";
 import News from "./News";
 import {Link} from 'react-router-dom';
 
-class Navbar extends Component {
+function Navbar (){
 
-
-    render(){
         return(
             <>
             <nav className="navbar navbar-expand-lg bg-dark border-bottom border-body"  data-bs-theme="dark">
@@ -48,6 +46,5 @@ class Navbar extends Component {
         );
     };
 
-};
 
 export default Navbar;
