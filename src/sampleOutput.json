@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+      {
+        "source": {
+          "id": "news24",
+          "name": "News24"
+        },
+        "author": "Erika Gibson",
+        "title": "SANDF DRC mission: Warnings of potential failure and high costs dismissed over a year ago",
+        "description": "The lack of air support, and strained relations with neighbouring Rwanda have further complicated efforts to stabilise the region. South Africa grapples with the aftermath and seeks to provide aid to stranded soldiers",
+        "url": "https://www.news24.com/citypress/news/sandf-drc-mission-warnings-of-potential-failure-and-high-costs-dismissed-over-a-year-ago-20250202",
+        "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/2794/189773b6efe34c75873b3626140d1870.jpg",
+        "publishedAt": "2025-02-02T04:36:49",
+        "content": "The lack of air support, and strained relations with neighbouring Rwanda have further complicated efforts to stabilise the region. South Africa grapples with the aftermath and seeks to provide aid to… [+17 chars]"
+      },
+      {
+        "source": {
+          "id": "t3n",
+          "name": "T3n"
+        },
+        "author": "Andreas Floemer",
+        "title": "Apple Intelligence: Geleaktes Memo gibt Einblick in Apples KI-Pläne",
+        "description": "Apple Intelligence genießt bei Apple offenbar höchsten Stellenwert. In einem durchgesickerten, internen Memo i",
+        "url": "https://t3n.de/news/apple-intelligence-geleaktes-memo-gibt-einblick-in-apples-ki-plaene-1670089/",
+        "urlToImage": "https://t3n.de/news/wp-content/uploads/2024/07/apple-intelligence-iphone.jpg",
+        "publishedAt": "2025-02-01T16:45:00Z",
+        "content": "Das KI-Paket Apple Intelligence wurde zunächst in den USA im Oktober 2024 gestartet und wird seitdem kontinuierlich um Funktionen erweitert, die der Hersteller im Juni 2024 im Zuge der WWDC angekündi… [+4062 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "Bloomberg News",
+        "title": "Apple scraps augmented reality glasses",
+        "description": "Apple Inc. has cancelled a project to build advanced augmented reality glasses that would pair with its devices. Read here for more",
+        "url": "https://financialpost.com/technology/tech-news/apple-scraps-augmented-reality-glasses",
+        "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2025/01/0201-mg-vision-pro.jpg",
+        "publishedAt": "2025-01-31T20:20:03Z",
+        "content": "The failure of AR glasses leaves Apple with one fewer avenue for finding a new hit product with mass consumer appeal\r\nAuthor of the article:\r\nWithin Apple, the Vision Pros slow sales were initially b… [+10242 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Alex Wilhelm",
+        "title": "Watch: When did iPads get as expensive as MacBooks?",
+        "description": "Would you switch out your MacBook for an iPad with an M4 chip and OLED display? With the increase in price, Apple seems to be arguing these are comparable but we’re curious to see if consumers will make the change.",
+        "url": "https://techcrunch.com/2024/05/08/techcrunch-minute-when-did-ipads-get-as-expensive-as-macbooks/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/ipad-noplay.png?resize=1200,675",
+        "publishedAt": "2024-05-08T14:52:26Z",
+        "content": "Apple’s iPad event had a lot to like. New iPads with new chips and new sizes, a new Apple Pencil, and even some software updates. If you are a big fan of Apple hardware, well, it was probably a good … [+1385 chars]"
+      },
+      {
+        "source": {
+          "id": "info-money",
+          "name": "InfoMoney"
+        },
+        "author": "Equipe InfoMoney",
+        "title": "Warren Buffett vende ações da Apple e explica por que reduziu fatia em 13%",
+        "description": "Participação na gigante de tecnologia passou a US$ 135 bilhões em março; números foram divulgados antes da reunião anual, neste sábado (4)",
+        "url": "https://www.infomoney.com.br/business/warren-buffett-vende-acoes-da-apple-e-reduz-fatia-em-13/",
+        "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/02/408145403.jpg?quality=70",
+        "publishedAt": "2024-05-04T16:10:24Z",
+        "content": "O conglomerado do megainvestidor Warren Buffett, Berkshire Hathaway (BRK.B), vendeu US$ 38,9 bilhões em ações da Apple (AAPL) entre dezembro do ano passado e março deste ano. Os números foram revelad… [+2530 chars]"
+      },
+      {
+        "source": {
+          "id": "wired-de",
+          "name": "Wired.de"
+        },
+        "author": "GQ",
+        "title": "Apple Neuheiten: Was wir vor der ersten Keynote 2021 wissen!",
+        "description": "Bald soll es so weit sein: Bei der ersten Keynote 2021 präsentiert Apple Neues aus Cupertino. Auf diese Produkte dürfen wir uns freuen!",
+        "url": "https://www.gq-magazin.de/auto-technik/article/apple-neuheiten-2021-das-wissen-wir-vor-keynote",
+        "urlToImage": "https://res.cloudinary.com/wired-de/image/upload/t_teaser_square/v1/0/apple-neuheiten-event-erste-keynote-2021-technik-aufmjpg.jpg",
+        "publishedAt": "2021-03-23T17:09:52Z",
+        "content": "Auf eines ist im Frühjahr immer Verlass: Apple präsentiert seine (ersten) neuen Produkte. Glauben wir den jüngsten Gerüchten, wird das auch 2021 so sein und dieses Jahr sogar wieder live aus Cupertin… [+2936 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "Akram's yorkers, Hegg's hits, and Chapple's 6 for 18 | ESPNcricinfo.com",
+        "description": "This week, we relive the glorious one-day triumphs of Lancashire in the 1990s | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29102935/o-my-akram-my-hegg-long-ago",
+        "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1221634_1296x729.jpg",
+        "publishedAt": "2020-04-27T10:24:08Z",
+        "content": "With still no live cricket in sight, we're digging deep into YouTube to keep ourselves entertained. This week, a trip down memory lane with one of the most dominant one-day sides ever - Lancashire in… [+5185 chars]"
+      }
+    ]
+  }
